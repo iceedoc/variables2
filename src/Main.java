@@ -90,6 +90,7 @@ public class Main {
       System.out.println(bIncome);
       double difference = bIncome - aIncome;
       System.out.println(difference);
+      System.out.println("Спасибо");
 
 
 
