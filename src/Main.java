@@ -64,6 +64,38 @@ public class Main {
       System.out.println(onlyGram);
       double inKilogram = (double)onlyGram / oneKilogram;
       System.out.println(inKilogram);
+      int justDays = 30;
+      System.out.println(justDays);
+      float aDays = 30 / 250f;
+      float bDays = 30 / 500f;
+      System.out.println(aDays);
+      System.out.println(bDays);
+      float average = ((aDays + bDays)/ 2);
+      System.out.println(average);
+      int masha = 67760;
+      int denis = 83690;
+      int christina = 76230;
+      float aPromotion =masha + (masha * 0.1f);
+      float bPromotion = denis + (denis * 0.1f);
+      float cPromotion = christina + (christina * 0.1f);
+      System.out.println(masha);
+      System.out.println(denis);
+      System.out.println(christina);
+      System.out.println(aPromotion);
+      System.out.println(bPromotion);
+      System.out.println(cPromotion);
+      int aIncome = masha + denis + christina;
+      System.out.println(aIncome);
+      double bIncome = aPromotion + bPromotion + cPromotion;
+      System.out.println(bIncome);
+      double difference = bIncome - aIncome;
+      System.out.println(difference);
+
+
+
+
+
+
 
 
 
